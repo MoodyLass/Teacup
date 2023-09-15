@@ -1,3 +1,3 @@
-# HTML5 Website Template
-<img width="1084" alt="Screenshot 2023-07-11 at 10 38 04 PM" src="https://github.com/sudo-self/html5-website/assets/119916323/4b361cf4-493d-46df-b8b9-befaa8dd4101">
-<img width="1318" alt="Screenshot 2023-07-11 at 10 33 57 PM" src="https://github.com/sudo-self/html5-website/assets/119916323/2d8a6a93-8779-4dc3-8cb4-1bd281e3b76f">
+# <a href="moodylass.com">Moody Lass</a>&nbsp;&nbsp;<img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></img>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"></img>&nbsp;&nbsp;<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></img>
+## <a href="mailto:moodylass@moodylass.com">Tea Time</a>
+<img width="1440" alt="Screenshot 2023-09-09 at 5 13 45 AM" src="https://github.com/MoodyLass/Teacup/assets/119916323/2ae13750-a430-467a-b2df-5c9945ae60f8">
